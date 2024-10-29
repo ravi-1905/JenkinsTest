@@ -9,7 +9,7 @@ public class JenkinsTest {
 
     @Test
     public void jenkinsTest2(){
-        System.out.println("Jenkins Test22");
+        System.out.println("Jenkins Test2");
     }
 
 }
