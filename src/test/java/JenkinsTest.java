@@ -7,4 +7,9 @@ public class JenkinsTest {
         System.out.println("Jenkins Test1");
     }
 
+    @Test
+    public void jenkinsTest2(){
+        System.out.println("Jenkins Test2");
+    }
+
 }
